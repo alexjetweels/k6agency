@@ -1,0 +1,157 @@
+.footer {
+  overflow: hidden;
+  background-color: rgba(219, 230, 226, 0.87);
+}
+
+.footer-top {
+  position: relative;
+  padding-block: 60px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: bottom;
+  border-block-end: 2px solid var(--independence_30);
+  background-image: url('../assets/footer-illustration.png');
+}
+
+.footer-top::after {
+  content: url(../assets/delivery-boy.svg);
+  position: absolute;
+  bottom: -11px;
+  left: -160px;
+  width: 160px;
+  animation: running-cycle 20s linear infinite;
+}
+
+.footer-brand__logo {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+@keyframes running-cycle {
+  0% {
+    left: -160px;
+  }
+  100% {
+    left: 100%;
+  }
+}
+
+.footer-grid {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+}
+
+.footer-text {
+  margin-block: 15px 25px;
+}
+
+.footer-brand {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.social-list {
+  list-style: none;
+  display: flex;
+  gap: 5px;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.social-link {
+  color: rgb(33, 35, 93);
+  font-size: 1.5rem;
+  padding: 10px;
+}
+
+.social-link:is(:hover, :focus) {
+  background-color: rgb(33, 35, 93);
+  color: white;
+}
+
+.footer-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-list li {
+  display: flex;
+  gap: 10px;
+  align-items: baseline;
+  padding-left: 0;
+  margin: 0;
+}
+
+.footer-list-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-block: 10px;
+}
+
+.footer-list-item-info {
+  font-size: 1rem;
+  margin-block: 5px;
+  font-weight: 600;
+}
+
+.footer-list-item {
+  display: inline !important;
+  width: max-content;
+}
+/**
+   * responsive for larger than 550px screen
+   */
+
+@media (min-width: 550px) {
+}
+
+/**
+   * responsive for larger than 768px screen
+   */
+
+@media (min-width: 768px) {
+}
+
+/**
+   * responsive for larger than 992px screen
+   */
+
+@media (min-width: 992px) {
+  /**
+     * CUSTOM PROPERTY
+     */
+
+  :root {
+    /**
+       * spacing
+       */
+
+    --section-padding: 120px;
+  }
+
+  .footer-top .container {
+    grid-template-columns: 1fr 1fr 1fr 1.6fr;
+  }
+}
+
+/**
+   * responsive for larger than 1200px screen
+   */
+
+@media (min-width: 1200px) {
+  /**
+     * FOOTER
+     */
+
+  .footer-grid {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 120px;
+  }
+}
