@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: kdzagency.com
+Host: k6agency.net
 
 # Sitemaps
-Sitemap: https://kdzagency.com/sitemap.xml
+Sitemap: https://k6zagency.net/sitemap.xml

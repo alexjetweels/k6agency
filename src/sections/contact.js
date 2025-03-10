@@ -12,7 +12,7 @@ export default function Contact() {
         <div className='footer-grid'>
           <div className='footer-brand'>
             <Link href='#' className='footer-brand__logo'>
-              KDZ Agency
+              K6 Agency
             </Link>
 
             <ul className='social-list'>
@@ -21,7 +21,7 @@ export default function Contact() {
                   href='https://t.me/kdzagency'
                   className='social-link'
                   target='_blank'
-                  title='Telegram KDZ Agency'
+                  title='Telegram K6 Agency'
                 >
                   <ion-icon name='send'></ion-icon>
                 </a>
@@ -94,7 +94,7 @@ export default function Contact() {
         <p className='copyright-text'>
           &copy; 2024{' '}
           <Link href='#'>
-            <b>KDZ Agency</b>{' '}
+            <b>K6 Agency</b>{' '}
           </Link>{' '}
           All Rights Reserved.
         </p>

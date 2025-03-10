@@ -4,7 +4,7 @@ import Image from 'next/image';
 import { keyframes } from '@emotion/react';
 import TextFeature from 'components/text-feature';
 
-import ServiceThumb from '../assets/banner.jpg';
+import ServiceThumb from '../assets/4.jpg';
 import shapePattern from '../assets/shape-pattern1.png';
 
 import Smart from '../assets/services/smart.svg';

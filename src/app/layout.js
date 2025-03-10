@@ -16,22 +16,22 @@ export const viewport = {
 };
 
 export const metadata = {
-  metadataBase: new URL('https://kdzagency.com'),
-  title: 'KDZ Agency',
-  description: `Unleash Your Potential – Infinite Accounts, Boundless Budgets! KDZ Agency offers top-notch marketing solutions tailored to your business needs. Join us to experience unparalleled growth and success. Affordable pricing plans: ${pricingDescription}.`,
+  metadataBase: new URL('https://k6agency.net'),
+  title: 'K6 Agency',
+  description: `Unleash Your Potential – Infinite Accounts, Boundless Budgets! K6 Agency offers top-notch marketing solutions tailored to your business needs. Join us to experience unparalleled growth and success. Affordable pricing plans: ${pricingDescription}.`,
   keywords: 'agency, marketing, business, SEO, pricing, affordable',
-  author: 'KDZ Agency',
+  author: 'K6 Agency',
 
   charset: 'UTF-8',
   openGraph: {
-    title: 'KDZ Agency',
-    description: `Unleash Your Potential – Infinite Accounts, Boundless Budgets! KDZ Agency offers top-notch marketing solutions tailored to your business needs. Join us to experience unparalleled growth and success. Affordable pricing plans: ${pricingDescription}.`,
+    title: 'K6 Agency',
+    description: `Unleash Your Potential – Infinite Accounts, Boundless Budgets! K6 Agency offers top-notch marketing solutions tailored to your business needs. Join us to experience unparalleled growth and success. Affordable pricing plans: ${pricingDescription}.`,
     type: 'website',
-    url: 'https://kdzagency.com',
-    siteName: 'KDZ Agency',
+    url: 'https://k6agency.net',
+    siteName: 'K6 Agency',
     images: [
       {
-        url: 'https://kdzagency.com/kdzlogo.png',
+        url: 'https://k6agency.net/kdzlogo.png',
       },
     ],
     locale: 'en_US',

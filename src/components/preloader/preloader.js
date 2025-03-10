@@ -13,8 +13,8 @@ const PreLoader = () => {
   return (
     <div className='preloader'>
       <div className='texts-container'>
-        <Image src={Logo} alt='KDZ Agency' width={100} height={100} />
-        <span>KDZ</span>
+        <Image src={Logo} alt='K6 Agency' width={100} height={100} />
+        <span>K6</span>
         <span>AGENCY</span>
       </div>
     </div>

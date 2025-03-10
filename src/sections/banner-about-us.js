@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import React from 'react';
 
-import Banner from 'assets/kdz.jpeg';
+import Banner from 'assets/3.jpg';
 
 import 'styles/banner-header.scss';
 

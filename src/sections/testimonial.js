@@ -25,7 +25,7 @@ const data = [
     id: 2,
     title: '"Creative Campaigns that Deliver Results"',
     description:
-      "The team at KDZ Agency brought creativity and strategy together to create Facebook ad campaigns that really resonate with our audience. We've seen a significant boost in engagement and sales since partnering with them.",
+      "The team at K6 Agency brought creativity and strategy together to create Facebook ad campaigns that really resonate with our audience. We've seen a significant boost in engagement and sales since partnering with them.",
     avatar: Avatar2,
     name: 'Alex Green',
     designation: '@alex.green',
@@ -35,7 +35,7 @@ const data = [
     id: 3,
     title: '"Professional Service with Outstanding ROI"',
     description:
-      'The expertise and professionalism displayed by KDZ Agency are unmatched. They delivered campaigns that provided us with an outstanding return on investment. I highly recommend their services.',
+      'The expertise and professionalism displayed by K6 Agency are unmatched. They delivered campaigns that provided us with an outstanding return on investment. I highly recommend their services.',
     avatar: Avatar3,
     name: 'Michael Stone',
     designation: '@michael.stone',
@@ -45,7 +45,7 @@ const data = [
     id: 4,
     title: '"Innovative Strategies, Impressive Growth"',
     description:
-      "We've been working with KDZ Agency for several months now, and their consistency in delivering results has been remarkable. Their expert guidance in Facebook ad management has helped us reach new heights.",
+      "We've been working with K6 Agency for several months now, and their consistency in delivering results has been remarkable. Their expert guidance in Facebook ad management has helped us reach new heights.",
     avatar: Avatar4,
     name: 'John Black',
     designation: '@john.black',

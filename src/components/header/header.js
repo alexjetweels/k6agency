@@ -2,7 +2,7 @@ import { Container, Flex, Button, Box } from 'theme-ui';
 import { keyframes } from '@emotion/react';
 import { Link } from 'react-scroll';
 import Logo from 'components/logo';
-import KDZLogo from 'assets/kdzlogo.jpeg';
+import KDZLogo from 'assets/Logo PNG.png';
 import { DrawerProvider } from '../../contexts/drawer/drawer.provider';
 import MobileDrawer from './mobile-drawer';
 import menuItems from './header.data';
