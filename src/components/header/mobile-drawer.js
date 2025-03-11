@@ -14,7 +14,7 @@ const social = [
     icon: <Icon icon={'mdi-light:facebook'} />,
   },
   {
-    path: 'https://t.me/kdzagency',
+    path: 'https://t.me/k6agency',
     icon: <Icon icon={'ic:twotone-telegram'} />,
   },
 ];

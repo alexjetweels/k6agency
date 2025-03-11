@@ -18,7 +18,7 @@ export default function Contact() {
             <ul className='social-list'>
               <li>
                 <a
-                  href='https://t.me/kdzagency'
+                  href='https://t.me/k6agency'
                   className='social-link'
                   target='_blank'
                   title='Telegram K6 Agency'

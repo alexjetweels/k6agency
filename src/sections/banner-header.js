@@ -30,7 +30,7 @@ export default function BannerHeader() {
 
           <button
             className='btn btn-primary'
-            onClick={() => window.open('https://t.me/kdzagency', '_blank')}
+            onClick={() => window.open('https://t.me/k6agency', '_blank')}
           >
             Get started now
           </button>

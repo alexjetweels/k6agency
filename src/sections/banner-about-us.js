@@ -29,7 +29,7 @@ export default function BannerAboutUs() {
             help you scale your business.
           </p>
           <a
-            href='https://t.me/kdzagency'
+            href='https://t.me/k6agency'
             target='_blank'
             class='bg-white text-blue-600 font-semibold py-3 px-6 rounded-lg shadow-lg hover:bg-gray-100 transition duration-300'
           >
@@ -216,7 +216,7 @@ export default function BannerAboutUs() {
             Ready to Work with Us?
           </h2>
           <a
-            href='https://t.me/kdzagency'
+            href='https://t.me/k6agency'
             target='_blank'
             class='bg-white text-blue-600 font-semibold py-3 px-6 rounded-lg shadow-lg hover:bg-gray-100 transition duration-300'
           >
